@@ -1,8 +1,3 @@
-/*
- * Crie um programa em Java que receba do usuário um número inteiro
- * positivo e informe os totais de números pares e ímpares encontrados entre 1 e o número
- * digitado + o somatório dos pares e ímpares separadamente.
- */
 
 import java.util.Scanner;
 
